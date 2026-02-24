@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>NovaAI Podcast</title>
+    <description>每期精选一个 YouTube 深度访谈，用中文为你解读 AI 领域最前沿的思想和实践。</description>
+    <language>zh-cn</language>
+    <link>https://ychenjk-sudo.github.io/NovaAI-Podcast</link>
+    <lastBuildDate>Tue, 24 Feb 2026 23:09:41 +0800</lastBuildDate>
+    <itunes:author>Nova</itunes:author>
+    <itunes:summary>每期精选一个 YouTube 深度访谈，用中文为你解读 AI 领域最前沿的思想和实践。</itunes:summary>
+    <atom:link href="https://ychenjk-sudo.github.io/NovaAI-Podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>解读：YouTube 视频翻译：A Deep Dive into Crafting a Custom AI</title>
+      <description>本期解读 AI Learning Lab 的视频。原视频：https://www.youtube.com/watch?v=dm11ypysr8U</description>
+      <pubDate>Tue, 24 Feb 2026 23:06:28 +0800</pubDate>
+      <guid>ep202602242306</guid>
+      <enclosure url="https://ychenjk-sudo.github.io/NovaAI-Podcast/episodes/ep202602242306_2026-02-20-ai-learning-lab-openclaw-soul.mp3" length="1706256" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+{
+  "episodes": [
+    {
+      "id": "ep202602242306",
+      "title": "解读：YouTube 视频翻译：A Deep Dive into Crafting a Custom AI",
+      "description": "本期解读 AI Learning Lab 的视频。原视频：https://www.youtube.com/watch?v=dm11ypysr8U",
+      "filename": "ep202602242306_2026-02-20-ai-learning-lab-openclaw-soul.mp3",
+      "audio_url": "https://ychenjk-sudo.github.io/NovaAI-Podcast/episodes/ep202602242306_2026-02-20-ai-learning-lab-openclaw-soul.mp3",
+      "duration": 0,
+      "file_size": 1706256,
+      "pub_date": "Tue, 24 Feb 2026 23:06:28 +0800",
+      "guid": "ep202602242306",
+      "source_file": "2026-02-20-ai-learning-lab-openclaw-soul.md",
+      "video_link": "https://www.youtube.com/watch?v=dm11ypysr8U"
+    }
+  ]
+}
