@@ -5,10 +5,18 @@
     <description>每期精选一个 YouTube 深度访谈，用中文为你解读 AI 领域最前沿的思想和实践。</description>
     <language>zh-cn</language>
     <link>https://ychenjk-sudo.github.io/NovaAI-Podcast</link>
-    <lastBuildDate>Tue, 24 Feb 2026 23:09:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2026 23:50:00 +0800</lastBuildDate>
     <itunes:author>Nova</itunes:author>
     <itunes:summary>每期精选一个 YouTube 深度访谈，用中文为你解读 AI 领域最前沿的思想和实践。</itunes:summary>
     <atom:link href="https://ychenjk-sudo.github.io/NovaAI-Podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dario Amodei：我们正接近指数增长的终点</title>
+      <description>Anthropic CEO Dario Amodei 接受 Dwarkesh Patel 采访，谈 AGI 时间线、天才国度、经济扩散与地缘政治。</description>
+      <pubDate>Mon, 24 Feb 2026 23:50:00 +0800</pubDate>
+      <guid>ep202602242349_dario-exponential</guid>
+      <enclosure url="https://ychenjk-sudo.github.io/NovaAI-Podcast/episodes/ep202602242349_dario-exponential.mp3" length="4391136" type="audio/mpeg"/>
+      <itunes:duration>731</itunes:duration>
+    </item>
     <item>
       <title>解读：YouTube 视频翻译：A Deep Dive into Crafting a Custom AI</title>
       <description>本期解读 AI Learning Lab 的视频。原视频：https://www.youtube.com/watch?v=dm11ypysr8U</description>
