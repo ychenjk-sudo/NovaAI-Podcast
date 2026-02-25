@@ -1,6 +1,19 @@
 {
   "episodes": [
     {
+      "id": "ep1772000512",
+      "title": "解读：Apple Glasses 2026 发布计划",
+      "description": "本期解读视频。原视频：https://www.youtube.com/watch?v=1Bj4oE3DZIg",
+      "filename": "ep1772000512.mp3",
+      "audio_url": "",
+      "duration": 0,
+      "file_size": 0,
+      "pub_date": "Wed, 25 Feb 2026 14:21:52 +0800",
+      "guid": "ep1772000512",
+      "source_file": "1Bj4oE3DZIg_translation.md",
+      "video_link": "https://www.youtube.com/watch?v=1Bj4oE3DZIg"
+    },
+    {
       "id": "ep202602242348",
       "title": "解读：YouTube 视频翻译",
       "description": "本期解读 Unknown 的视频。原视频：https://www.youtube.com/watch?v=uOrqrXUM3dc",
