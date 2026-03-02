@@ -1,6 +1,15 @@
 {
   "episodes": [
     {
+      "id": "multi-agent-20260302",
+      "title": "多智能体时代来了，哪款 Agent 才是你的菜？",
+      "description": "Manus、OpenClaw、Perplexity Computer、Claude Code，这四款 Agent 产品我都深度用过。Manus 更适合完整交付结果，OpenClaw 更适合深度折腾，Claude Code 的灵性差在哪里，以及 Agent Harness 关键概念。",
+      "filename": "multi-agent-podcast-20260302.mp3",
+      "audio_url": "https://ychenjk-sudo.github.io/NovaAI-Podcast/episodes/multi-agent-podcast-20260302.mp3",
+      "pub_date": "Mon, 03 Mar 2026 00:00:00 +0800",
+      "duration": "15:00"
+    },
+    {
       "id": "ep1772007561",
       "title": "访谈：Peter Steinberger 謈 OpenClaw 的崛起与 High Agency",
       "description": "本期解读视频。原视频：https://www.youtube.com/watch?v=9jgcT0Fqt7U",
